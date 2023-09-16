@@ -2,8 +2,8 @@ Hi,👋, I’m Toan Do FullStack Developer.
 
 ### Connect with me:
 <p align="center">
-<a href="https://twitter.com/konnectahsan" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/ahsan-iqball/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://twitter.com/toantech27" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/do-cong-toan/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
 
 ## Tech Stack 💻
 

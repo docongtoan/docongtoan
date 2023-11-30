@@ -18,7 +18,8 @@ JS Frameworks/Libraries
 
 ![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Angular-0d47a1?style=for-the-badge&logo=angular&logoColor=DD0031)
-![](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 Other Tools
 

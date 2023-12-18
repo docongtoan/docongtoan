@@ -47,12 +47,6 @@ Backend
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Codeigniter-FFFFFF?style=for-the-badge&logo=codeigniter&logoColor=EF4223)
 
-Base
-
-![](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=ffffff)
-![](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=ffffff)
-
-
 Version Control
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
@@ -60,5 +54,10 @@ Version Control
 ![Git Lab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
+
+Base
+
+![](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=ffffff)
+![](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=ffffff)
 
 ## Thanks for Visiting my GitHub Profile!
